@@ -71,9 +71,3 @@ This project implements a simple Car Management System using Django for the API 
 ## Contributing
 Feel free to fork the repository, create pull requests, or open issues for bugs or feature requests.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Adjust the `<repository_url>`, `<repository_name>`, and other placeholders as per your actual project details. This README provides an overview of the project, setup instructions, usage guidelines, troubleshooting tips, and licensing information, making it easier for users and contributors to understand and interact with your Car Management System project.
